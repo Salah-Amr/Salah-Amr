@@ -28,8 +28,8 @@ I have worked on projects that served thousands of users, built scalable applica
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-![C++](https://img.shields.io/badge/php-%23777BB4.svg?&logo=cpp&logoColor=white)
-![Java](https://img.shields.io/badge/php-%23777BB4.svg?&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/cpp-%23777BB4.svg?&logo=cpp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23777BB4.svg?&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
