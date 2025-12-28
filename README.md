@@ -1,8 +1,6 @@
-# Hey there, I'm [Salah Amr](https://yousefdergham.vercel.app/) 👋
+# Hey there, I'm [Salah Amr]() 👋
 
 **Full-stack Web Developer · CS Student · Coffee Lover ☕**
-
-💼 **Current:** Programming Instructor at [EasyCode](https://www.linkedin.com/company/easy-c/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Salah-Amr&style=for-the-badge" alt="Profile Views"/>
