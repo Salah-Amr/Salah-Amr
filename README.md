@@ -46,7 +46,7 @@ I have worked on projects that served thousands of users, built scalable applica
 ## 🎯 Codeforces Analytics Dashboard
 
 <div align="center">
-  <img src="https://codeforces.com/api/user.status?handle=Salah_Amr" alt="CF Analytics Dashboard"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Salah_Amr&theme=github_dark&force_username=true" alt="CF Analytics Dashboard"/>
 </div>
 
 ## 🔗 Connect with Me
