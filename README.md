@@ -1,6 +1,6 @@
 # Hey there, I'm [Salah Amr]() 👋
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+**Back-End Developer · IT Student**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Salah-Amr&style=for-the-badge" alt="Profile Views"/>
@@ -34,7 +34,7 @@ I have worked on projects that served thousands of users, built scalable applica
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-Amr&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-status.vercel.app/api/top-langs/?username=Salah-Amr&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 ## 🎯 LeetCode Heatmap
