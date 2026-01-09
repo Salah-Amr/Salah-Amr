@@ -43,6 +43,11 @@ I have worked on projects that served thousands of users, built scalable applica
   <img src="https://leetcard.jacoblin.cool/Salah_Amr?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
+## 🎯 Codeforces Analytics Dashboard
+
+<div align="center">
+  <img src="https://codeforces.com/api/user.status?handle=Salah_Amr" alt="CF Analytics Dashboard"/>
+</div>
 
 ## 🔗 Connect with Me
 
